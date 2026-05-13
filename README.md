@@ -15,18 +15,18 @@ Currently focused on improving my skills in:
 
 ⸻
 
-🚀 About Me
+ About Me
 
-* 💼 Former Senior Team Lead in E-commerce Customer Service
-* 🌍 Experienced in working with international teams
-* 📦 Familiar with Amazon Vendor Central (AVC)
-* 📊 Interested in operations optimization & data analysis
-* ✍️ Background in translation and online community management
-* 📍 Based in Yangon, Myanmar
+*  Former Senior Team Lead in E-commerce Customer Service
+*  Experienced in working with international teams
+*  Familiar with Amazon Vendor Central (AVC)
+*  Interested in operations optimization & data analysis
+*  Background in translation and online community management
+*  Based in Yangon, Myanmar
 
 ⸻
 
-🛠 Skills
+ Skills
 
 Hard Skills
 
@@ -107,8 +107,8 @@ January 2021 – April 2023
 
 📫 Contact
 
-* 📧 Email: tomleo2832002@gmail.com
-* 📱 Phone: +95 979 167 4361
+*  Email: tomleo2832002@gmail.com
+*  Phone: +95 979 167 4361
 
 ⸻
 
