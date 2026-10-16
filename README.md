@@ -1,4 +1,4 @@
-Hi, I’m Paing Soe Khant 👋
+Hi, I’m Paing Soe Khant 
 
 E-commerce Operations & Customer Service Specialist
 
@@ -48,7 +48,7 @@ Soft Skills
 
 ⸻
 
-💼 Work Experience
+Work Experience
 
 Best For Less E-Commerce Company
 
@@ -90,13 +90,13 @@ January 2021 – April 2023
 
 ⸻
 
-📚 Education
+ Education
 
 * High School – Matriculation Passed
 
 ⸻
 
-🎯 Current Goals
+ Current Goals
 
 * Build a professional career in e-commerce & digital operations
 * Learn automation and AI tools for productivity
@@ -105,7 +105,7 @@ January 2021 – April 2023
 
 ⸻
 
-📫 Contact
+ Contact
 
 *  Email: tomleo2832002@gmail.com
 *  Phone: +95 979 167 4361
